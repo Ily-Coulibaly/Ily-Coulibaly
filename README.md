@@ -8,40 +8,28 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 
 ---
 
-### I master a bunch of Tools & Technologies  
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" title="Python" alt="Python" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-    <!-- If you meant CANVA (design), keep the next icon; if you meant Canvas LMS, replace with its logo URL -->
-  <img src="https://cdn.simpleicons.org/canva" width="48" height="48" title="Canva" alt="Canva" aria-label="Canva" style="margin-right:10px;" />
-</p>
-
 ## I master a bunch of Tools & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R" alt="R" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter Notebook" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" title="SQL" alt="SQL" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau" alt="Tableau" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI" alt="Power BI" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" title="Canva" alt="Canva" />
+ <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" />
+ <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R" alt="R" />
+ <img src="https://img.shields.io/badge/-SAS-1C4E80?style=for-the-badge&logo=sas&logoColor=white" title="SAS" alt="SAS" />
+ <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Microsoft Excel" alt="Excel" />
+ <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" title="MATLAB" alt="MATLAB" />
+ <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter Notebook" alt="Jupyter" />
+ <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="SQL" alt="SQL" />
+ <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" />
+ <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau" alt="Tableau" />
+ <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI" alt="Power BI" />
+ <img src="https://img.shields.io/badge/-Alteryx-276DC3?style=for-the-badge&logo=alteryx&logoColor=white" title="Alteryx" alt="Alteryx" />
+ <img src="https://img.shields.io/badge/-SPSS-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" title="SPSS" alt="SPSS" />
+ <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" />
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" />
+ <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" alt="VS Code" />
+ <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" title="Canva" alt="Canva" />
 </p>
 
-### Explore my Tableau dashboards, Medium articles, and data portfolio: 
+### Explore how I make use of this tools in my Data portfolio, my tableau public, and read my articles:
 
 <a href="https://your-portfolio-link.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
