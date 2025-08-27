@@ -8,7 +8,7 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 
 ---
 
-## I master a bunch of Tools & Technologies
+### I master a bunch of Tools & Technologies
 
 <p align="left">
  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" />
