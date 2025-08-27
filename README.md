@@ -23,7 +23,30 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
 
----
+## Tools & Technologies
+
+<p>
+  <!-- Programming -->
+  <img src="https://cdn.simpleicons.org/python" width="48" height="48" title="Python" alt="Python" aria-label="Python" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/rstudio" width="48" height="48" title="RStudio" alt="RStudio" aria-label="RStudio" style="margin-right:10px;" />
+
+  <!-- SQL (generic) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" title="SQL" alt="SQL" aria-label="SQL" style="margin-right:10px;" />
+
+  <!-- BI / Visualization -->
+  <img src="https://cdn.simpleicons.org/tableau" width="48" height="48" title="Tableau" alt="Tableau" aria-label="Tableau" style="margin-right:10px;" />
+  <!-- Tableau Prep doesn't have a separate official icon; use Tableau logo and make it clear on hover -->
+  <img src="https://cdn.simpleicons.org/tableau" width="48" height="48" title="Tableau Prep" alt="Tableau Prep" aria-label="Tableau Prep" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/powerbi" width="48" height="48" title="Power BI" alt="Power BI" aria-label="Power BI" style="margin-right:10px;" />
+
+  <!-- Analytics / Stats -->
+  <img src="https://cdn.simpleicons.org/sas" width="48" height="48" title="SAS" alt="SAS" aria-label="SAS" style="margin-right:10px;" />
+
+  <!-- Productivity -->
+  <img src="https://cdn.simpleicons.org/microsoftexcel" width="48" height="48" title="Excel" alt="Excel" aria-label="Excel" style="margin-right:10px;" />
+  <!-- If you meant CANVA (design), keep the next icon; if you meant Canvas LMS, replace with its logo URL -->
+  <img src="https://cdn.simpleicons.org/canva" width="48" height="48" title="Canva" alt="Canva" aria-label="Canva" style="margin-right:10px;" />
+</p>
 
 ### Explore my Tableau dashboards, Medium articles, and data portfolio: 
 
