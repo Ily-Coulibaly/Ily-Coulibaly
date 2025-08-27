@@ -72,6 +72,32 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
   <img src="https://cdn.simpleicons.org/canva" width="48" height="48" title="Canva" alt="Canva" style="margin-right:10px;" />
 </p>
 
+
+## Tools & Technologies
+
+<p>
+  <!-- Programming -->
+  <img src="https://cdn.simpleicons.org/python/3776AB"          width="48" height="48" title="Python"        alt="Python"        style="margin-right:12px;" />
+  <img src="https://cdn.simpleicons.org/rstudio/75AADB"         width="48" height="48" title="RStudio"       alt="RStudio"       style="margin-right:12px;" />
+
+  <!-- SQL (use Postgres as the SQL badge; change to MySQL if you prefer) -->
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1"      width="48" height="48" title="SQL"           alt="SQL"           style="margin-right:12px;" />
+
+  <!-- BI / Visualization -->
+  <img src="https://cdn.simpleicons.org/tableau/E97627"         width="48" height="48" title="Tableau"       alt="Tableau"       style="margin-right:12px;" />
+  <!-- Tableau Prep has no distinct icon; reuse Tableau with clear tooltip -->
+  <img src="https://cdn.simpleicons.org/tableau/00527A"         width="48" height="48" title="Tableau Prep"  alt="Tableau Prep"  style="margin-right:12px;" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811"         width="48" height="48" title="Power BI"      alt="Power BI"      style="margin-right:12px;" />
+
+  <!-- Analytics / Stats -->
+  <img src="https://cdn.simpleicons.org/sas/2E59A8"             width="48" height="48" title="SAS"           alt="SAS"           style="margin-right:12px;" />
+
+  <!-- Productivity / Other -->
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346"  width="48" height="48" title="Excel"         alt="Excel"         style="margin-right:12px;" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC"           width="48" height="48" title="Canva"         alt="Canva"         style="margin-right:12px;" />
+</p>
+
+
 ### Explore my Tableau dashboards, Medium articles, and data portfolio: 
 
 <a href="https://your-portfolio-link.com">
