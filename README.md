@@ -25,59 +25,29 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" title="Canva" alt="Canva" />
 </p>
 
-### Explore how I make use of this tools in my Data portfolio, my tableau public, and read my articles:
+### Explore how I make use of these tools in my Data portfolio, my Tableau Public, and read my articles:
 
-<a href="https://your-portfolio-link.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-</a>
-<a href="https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50"/>
-</a>
-<a href="https://medium.com/@k.ilycoulibaly">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="50" height="50"/>
-</a>
+<p align="left">
+  <a href="https://your-portfolio-link.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-📊%20Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-📈%20Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public" />
+  </a>
+  <a href="https://medium.com/@k.ilycoulibaly" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-✍️%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Articles" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+### Connect with me:
 
-### Ready to see my work in action?
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-<a href="https://your-portfolio-link.com" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/-📊%20Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio" /><br>
-<strong>Data Portfolio</strong>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/-📈%20Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /><br>
-<strong>Tableau Dashboards</strong>
-</a>
-</td>
-<td align="center" width="200">
-<a href="https://medium.com/@k.ilycoulibaly" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/-✍️%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /><br>
-<strong>Technical Articles</strong>
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-### Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ily-kynion-coulibaly-05602a189/" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:icoulibaly1@babson.edu" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ily-kynion-coulibaly-05602a189/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:icoulibaly1@babson.edu" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-</div>
