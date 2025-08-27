@@ -25,6 +25,8 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" title="Canva" alt="Canva" />
 </p>
 
+---
+
 ### Explore how I make use of these tools in my Data portfolio, my Tableau Public, and read my articles:
 
 <p align="left">
