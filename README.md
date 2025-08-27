@@ -39,30 +39,45 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 
 ---
 
-### Connect with me: 
-
-<a href="https://www.linkedin.com/in/ily-kynion-coulibaly-05602a189/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
-</a>
-<a href="mailto:icoulibaly1@babson.edu">
-    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="50" height="50"/>
-  </a>
-
-</p>
-
----
-
 <div align="center">
 
-### 🌟 Ready to see my work in action?
+### Ready to see my work in action?
 
-| 📊 **Data Portfolio** | 📈 **Tableau Dashboards** | ✍️ **Technical Articles** |
-|:---:|:---:|:---:|
-| [View Projects](https://your-portfolio-link.com) | [Explore Visualizations](https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes) | [Read Articles](https://medium.com/@k.ilycoulibaly) |
+<table align="center">
+<tr>
+<td align="center" width="200">
+<a href="https://your-portfolio-link.com" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/-📊%20Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio" /><br>
+<strong>Data Portfolio</strong>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/-📈%20Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /><br>
+<strong>Tableau Dashboards</strong>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://medium.com/@k.ilycoulibaly" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/-✍️%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /><br>
+<strong>Technical Articles</strong>
+</a>
+</td>
+</tr>
+</table>
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ily-kynion-coulibaly-05602a189/)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icoulibaly1@babson.edu)
+<br>
+
+### Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ily-kynion-coulibaly-05602a189/" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:icoulibaly1@babson.edu" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
 
 </div>
