@@ -11,7 +11,7 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 ### I master a bunch of Tools & Technologies  
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" title="Python" alt="Python" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
@@ -21,82 +21,9 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-</p>
-
-## Tools & Technologies
-
-<p>
-  <!-- Programming -->
-  <img src="https://cdn.simpleicons.org/python" width="48" height="48" title="Python" alt="Python" aria-label="Python" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/rstudio" width="48" height="48" title="RStudio" alt="RStudio" aria-label="RStudio" style="margin-right:10px;" />
-
-  <!-- SQL (generic) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" title="SQL" alt="SQL" aria-label="SQL" style="margin-right:10px;" />
-
-  <!-- BI / Visualization -->
-  <img src="https://cdn.simpleicons.org/tableau" width="48" height="48" title="Tableau" alt="Tableau" aria-label="Tableau" style="margin-right:10px;" />
-  <!-- Tableau Prep doesn't have a separate official icon; use Tableau logo and make it clear on hover -->
-  <img src="https://cdn.simpleicons.org/tableau" width="48" height="48" title="Tableau Prep" alt="Tableau Prep" aria-label="Tableau Prep" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/powerbi" width="48" height="48" title="Power BI" alt="Power BI" aria-label="Power BI" style="margin-right:10px;" />
-
-  <!-- Analytics / Stats -->
-  <img src="https://cdn.simpleicons.org/sas" width="48" height="48" title="SAS" alt="SAS" aria-label="SAS" style="margin-right:10px;" />
-
-  <!-- Productivity -->
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="48" height="48" title="Excel" alt="Excel" aria-label="Excel" style="margin-right:10px;" />
-  <!-- If you meant CANVA (design), keep the next icon; if you meant Canvas LMS, replace with its logo URL -->
+    <!-- If you meant CANVA (design), keep the next icon; if you meant Canvas LMS, replace with its logo URL -->
   <img src="https://cdn.simpleicons.org/canva" width="48" height="48" title="Canva" alt="Canva" aria-label="Canva" style="margin-right:10px;" />
 </p>
-
-## Tools & Technologies
-
-<p>
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" title="Python" alt="Python" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="48" height="48" title="RStudio" alt="RStudio" style="margin-right:10px;" />
-
-  <!-- SQL (use MySQL icon as generic SQL; swap to Postgres if you prefer) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" title="SQL" alt="SQL" style="margin-right:10px;" />
-
-  <!-- BI / Visualization -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" height="48" title="Tableau" alt="Tableau" style="margin-right:10px;" />
-  <!-- Tableau Prep has no separate official icon; reuse Tableau with a clear tooltip -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" height="48" title="Tableau Prep" alt="Tableau Prep" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/powerbi" width="48" height="48" title="Power BI" alt="Power BI" style="margin-right:10px;" />
-
-  <!-- Analytics / Stats -->
-  <img src="https://cdn.simpleicons.org/sas" width="48" height="48" title="SAS" alt="SAS" style="margin-right:10px;" />
-
-  <!-- Productivity / Other -->
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="48" height="48" title="Excel" alt="Excel" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/canva" width="48" height="48" title="Canva" alt="Canva" style="margin-right:10px;" />
-</p>
-
-
-## Tools & Technologies
-
-<p>
-  <!-- Programming -->
-  <img src="https://cdn.simpleicons.org/python/3776AB"          width="48" height="48" title="Python"        alt="Python"        style="margin-right:12px;" />
-  <img src="https://cdn.simpleicons.org/rstudio/75AADB"         width="48" height="48" title="RStudio"       alt="RStudio"       style="margin-right:12px;" />
-
-  <!-- SQL (use Postgres as the SQL badge; change to MySQL if you prefer) -->
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1"      width="48" height="48" title="SQL"           alt="SQL"           style="margin-right:12px;" />
-
-  <!-- BI / Visualization -->
-  <img src="https://cdn.simpleicons.org/tableau/E97627"         width="48" height="48" title="Tableau"       alt="Tableau"       style="margin-right:12px;" />
-  <!-- Tableau Prep has no distinct icon; reuse Tableau with clear tooltip -->
-  <img src="https://cdn.simpleicons.org/tableau/00527A"         width="48" height="48" title="Tableau Prep"  alt="Tableau Prep"  style="margin-right:12px;" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811"         width="48" height="48" title="Power BI"      alt="Power BI"      style="margin-right:12px;" />
-
-  <!-- Analytics / Stats -->
-  <img src="https://cdn.simpleicons.org/sas/2E59A8"             width="48" height="48" title="SAS"           alt="SAS"           style="margin-right:12px;" />
-
-  <!-- Productivity / Other -->
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346"  width="48" height="48" title="Excel"         alt="Excel"         style="margin-right:12px;" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC"           width="48" height="48" title="Canva"         alt="Canva"         style="margin-right:12px;" />
-</p>
-
 
 ### Explore my Tableau dashboards, Medium articles, and data portfolio: 
 
