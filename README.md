@@ -23,7 +23,7 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
 
---
+---
 
 ### Explore my Tableau dashboards, Medium articles, and data portfolio: 
 
@@ -37,7 +37,7 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="50" height="50"/>
 </a>
 
---
+---
 
 ### Connect with me: 
 
