@@ -50,29 +50,19 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 
 </p>
 
-### Explore how I make use of these tools in my Data portfolio, my Tableau Public, and read my articles:
-
-<p align="left" style="text-decoration: none;">
-  <a href="https://your-portfolio-link.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" title="Data Portfolio" alt="Portfolio" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau Public" alt="Tableau Public" />
-  </a>
-  <a href="https://medium.com/@k.ilycoulibaly" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium Articles" alt="Medium" />
-  </a>
-</p>
-
 ---
 
-### Connect with me:
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ily-kynion-coulibaly-05602a189/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn" />
-  </a>
-  <a href="mailto:icoulibaly1@babson.edu" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Send Email" alt="Email" />
-  </a>
-</p>
+### 🌟 Ready to see my work in action?
+
+| 📊 **Data Portfolio** | 📈 **Tableau Dashboards** | ✍️ **Technical Articles** |
+|:---:|:---:|:---:|
+| [View Projects](https://your-portfolio-link.com) | [Explore Visualizations](https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes) | [Read Articles](https://medium.com/@k.ilycoulibaly) |
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ily-kynion-coulibaly-05602a189/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icoulibaly1@babson.edu)
+
+</div>
