@@ -1,4 +1,4 @@
-### Hi there, I am Ily Kynion.  
+#### Hi, I am Ily Kynion.  
 
 I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Python and data-driven problem solving!</span>
 
@@ -8,7 +8,7 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 
 ---
 
-## Explore my Tableau dashboards, Medium articles, and data portfolio: 
+#### Explore my Tableau dashboards, Medium articles, and data portfolio: 
 
 <a href="https://your-portfolio-link.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
@@ -20,7 +20,7 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="50" height="50"/>
 </a>
 
-### Connect with me: 
+#### Connect with me: 
 
 <a href="https://www.linkedin.com/in/ily-kynion-coulibaly-05602a189/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
