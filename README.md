@@ -2,9 +2,9 @@
 
 <span style="color:Olive">My name is <b>Ily</b>, I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Python and data-driven problem solving!</span>
 
--💡 I am currently working on a meeting analyzer that evaluates transcripts and generates a real-time engagement dashboard to improve meeting efficiency.
--💡 I recently developed a Python/NLP tool that indexed over 1,000 documents and automated report generation, reducing retrieval and reporting time by 80%.
--💡 I am eager to collaborate on projects that apply programming, machine learning, and data visualization to support evidence-based decision-making.  
+- 💡 I am currently working on a meeting analyzer that evaluates transcripts and generates a real-time engagement dashboard to improve meeting efficiency.
+- 💡 I recently developed a Python/NLP tool that indexed over 1,000 documents and automated report generation, reducing retrieval and reporting time by 80%.
+- 💡 I am eager to collaborate on projects that apply programming, machine learning, and data visualization to support evidence-based decision-making.  
 
 ---
 
