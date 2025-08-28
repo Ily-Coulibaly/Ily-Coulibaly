@@ -8,7 +8,7 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 
 ---
 
-### I master a bunch of Tools & Technologies
+### I master a bunch of Tools & Technologies:
 
 <p align="left">
  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" />
@@ -26,7 +26,7 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 
 ---
 
-### Explore how I make use of these tools in my Data portfolio, my Tableau Public, and read my articles:
+### Explore my Data portfolio and Tableau Public:
 
 <p align="left">
   <a href="https://your-portfolio-link.com" style="text-decoration: none;">
@@ -34,9 +34,6 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
   </a>
   <a href="https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-📈%20Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public" />
-  </a>
-  <a href="https://medium.com/@k.ilycoulibaly" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-✍️%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Articles" />
   </a>
 </p>
 
