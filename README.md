@@ -53,8 +53,8 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 <p align="left">
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes">
+  </a><!--
+  --><a href="https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes">
     <img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public" />
   </a>
 </p>
@@ -66,9 +66,8 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 <p align="left">
   <a href="https://www.linkedin.com/in/ily-kynion-coulibaly-05602a189/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:icoulibaly1@babson.edu">
+  </a><!--
+  --><a href="mailto:icoulibaly1@babson.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
