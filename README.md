@@ -28,10 +28,10 @@ I am a <b>Data Analyst</b> and <b>Mathematician</b> interested in all things Pyt
 
 <p align="left">
   <a href="https://your-portfolio-link.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-📊%20Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-%20Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://public.tableau.com/app/profile/ily.kynion.coulibaly/vizzes" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-📈%20Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public" />
+    <img src="https://img.shields.io/badge/-%20Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public" />
   </a>
 </p>
 
